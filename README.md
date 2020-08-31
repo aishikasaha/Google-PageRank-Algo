@@ -16,10 +16,6 @@ The PageRank algorithm outputs a probability distribution used to represent the 
 
   <h3>Final Output:</h3>
   <href='file:///home/aishika/Desktop/ml/spider.py/Visualisation/viz.html'>
-    <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview" type="video/mp4">
-</video>
- 
-[![Watch the video](https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview)]
-[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview)
+    
+[![Click on the link](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview)
   
