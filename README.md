@@ -9,7 +9,10 @@ The PageRank algorithm outputs a probability distribution used to represent the 
   
 </p1>
 <p3>
-  <h2>Tools used</h2>
+  <h2>Tools used:</h2>
   <li> <span style="font:bold;">Beatifulsoup</span> to parse the URL after reading them</li>
   <li> <span style="font:bold;">SQLite</span> to store the data </li>
   </p3>
+ <p4>
+  <h3>Final Output:</h3>
+  
