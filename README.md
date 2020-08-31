@@ -20,5 +20,5 @@ The PageRank algorithm outputs a probability distribution used to represent the 
   <source src="https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview" type="video/mp4">
 </video>
   <iframe src="https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview" width="640" height="480"></iframe>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview)
+[![Watch the video](https://drive.google.com/file/d/1YM_Jtj9cedTwFdXi-XWe9JEtSt-EQX3f/preview)]
   </p4>
