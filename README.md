@@ -15,5 +15,5 @@ The PageRank algorithm outputs a probability distribution used to represent the 
   </p3>
  <p4>
   <h3>Final Output:</h3>
-  ![alt-text]('https://github.com/aishikasaha/Google-PageRank-Algo/blob/master/Visualisation/viz.html')
+  <href='file:///home/aishika/Desktop/ml/spider.py/Visualisation/viz.html'>
   </p4>
